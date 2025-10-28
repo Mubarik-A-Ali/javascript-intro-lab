@@ -1,0 +1,1 @@
+document.getElementById("myHeading").innerHTML = "Welcome to My Awesome Site!"
